@@ -40,6 +40,8 @@ h1,h2,h3 {
 #main {
   width: 600px;
   float: left;
+  position: relative;
+  left:0;
 }
 #footer {
   clear: both;
