@@ -39,7 +39,7 @@ h1,h2,h3 {
 }
 #main {
   width: 600px;
-  float: left;
+  float: right;
   position: relative;
   left:0;
 }
