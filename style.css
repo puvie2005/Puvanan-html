@@ -28,7 +28,7 @@ h1,h2,h3 {
 }
 #nav {
   width: 160px;
-  float: ;left;
+  float: left;
 }
 #nav ul{
   list-style-type: none;
@@ -40,7 +40,7 @@ h1,h2,h3 {
 #main {
   width: 844px;
   float: right;
-  /* position: centre; */
+  /* position: relative; */
   /* left:0; */
 }
 #footer {
