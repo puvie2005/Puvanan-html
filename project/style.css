@@ -27,7 +27,7 @@ h1,h2,h3 {
   padding: 10px;
 }
 #nav {
-  width: 180px;
+  width: 160px;
   float: left;
 }
 #nav ul{
@@ -41,7 +41,7 @@ h1,h2,h3 {
   width: 844px;
   float: right;
   position: relative;
-  left:0;
+  /* left:0; */
 }
 #footer {
   clear: both;
